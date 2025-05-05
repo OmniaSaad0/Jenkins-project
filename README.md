@@ -63,7 +63,7 @@ curl http://<load-balancer-DNS>/redis
 
 curl http://<load-balancer-DNS>/db
 # → db connection successful
-
+```
 ### 🧱 Architecture Summary:
 
                     +-------------------------+
