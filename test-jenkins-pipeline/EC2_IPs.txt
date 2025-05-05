@@ -1,0 +1,2 @@
+Bastion Public IP: 3.84.76.74
+app Private IP: 10.0.3.88
