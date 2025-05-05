@@ -16,7 +16,6 @@ This project implements a complete **CI/CD pipeline** using **Jenkins**, **Terra
 
 ## 🏗️ Stage 1: Infrastructure Provisioning
 
-🔗 Repo: [test-terraform-jenkins](https://github.com/OmniaSaad0/test-terraform-jenkins)
 
 - Run a Jenkins pipeline (Jenkinsfile) on a slave EC2 instance.
 - Use **Terraform** to provision:
