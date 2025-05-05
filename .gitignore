@@ -1,2 +1,3 @@
 .terraform*
 create-ec2/
+ansible/key.pem
